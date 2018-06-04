@@ -1,7 +1,7 @@
 .btn-theme{
     color: #FFF;
-    background: #274cbf;
-    border: solid 1px #274cbf;
+    background: red;
+    border: solid 1px red;
     text-transform: uppercase;
     font-weight: 600;
     font-size: 12px;
@@ -9,456 +9,456 @@
 
 .btn-theme:hover{
     color: #FFF;
-    background: #2646a7;
-    border: solid 1px #2646a7;
+    background: red;
+    border: solid 1px red;
 }
 
 .modal-right-content .bullets li i{
-   color: #274cbf;
+   color: red;
 }
 
 .top-header-bg {
-    background: #274cbf;
+    background: red;
 }
 
 .form-inline a:hover{
-    color: #274cbf;
+    color: red;
 }
 
 .show-more-options, .show-more-options:hover {
-    color: #274cbf!important;
+    color: red!important;
 }
 
 .overview .btn-border:hover{
-    border: solid 2px #2646a7;
-    background: #2646a7;
+    border: solid 2px red;
+    background: red;
 }
 
 .categories ul li a:hover{
-    color: #274cbf;
+    color: red;
 }
 
 .checkbox-theme input[type="checkbox"]:checked + label::before {
-    background-color: #274cbf;
-    border-color: #274cbf;
+    background-color: red;
+    border-color: red;
 }
 
 .tabbing-box .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
-    background-color: #274cbf;
+    background-color: red;
 }
 
 .tabbing-box .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link:hover {
-    background-color: #274cbf;
+    background-color: red;
 }
 
 #page_scroller {
-    background: #274cbf;
+    background: red;
 }
 
 .setting-button {
-    background: #274cbf;
+    background: red;
 }
 
 .overview .btn-border{
-    color: #274cbf;
-    border: solid 2px #274cbf;
+    color: red;
+    border: solid 2px red;
 }
 
 .overview .btn-border:hover{
-    border: solid 2px #2646a7;
-    background: #2646a7;
+    border: solid 2px red;
+    background: red;
 }
 
 .banner-bg-color{
-    background: #2646a7;
+    background: red;
 }
 
 .btn-white-sm-outline:hover{
-    background: #2646a7;
-    border: solid 1px #2646a7;
+    background: red;
+    border: solid 1px red;
 }
 
 
 .btn-white-lg-outline:hover{
-    background: #2646a7;
-    border: solid 2px #2646a7;
+    background: red;
+    border: solid 2px red;
 }
 
 .btn-color{
-    background: #274cbf;
-    border-color: #274cbf;
+    background: red;
+    border-color: red;
 }
 
 .btn-color:hover{
-    background: #2646a7;
-    border-color: #2646a7;
+    background: red;
+    border-color: red;
 }
 
 .btn-color:not([disabled]):not(.disabled).active, .btn-color:not([disabled]):not(.disabled):active, .show > .btn-color.dropdown-toggle {
     color: #fff;
-    background-color: #2646a7;
-    border-color: #2646a7;
+    background-color: red;
+    border-color: red;
     box-shadow: none;
 }
 
 .btn-theme-sm-outline{
-    color: #2646a7 !important;
-    border: solid 2px #2646a7;
+    color: red !important;
+    border: solid 2px red;
 }
 
 .btn-theme-sm-outline:hover{
-    background: #2646a7;
-    border: solid 2px #2646a7;
+    background: red;
+    border: solid 2px red;
 }
 
 .btn-border{
-    color: #274cbf;
-    border: solid 1px #274cbf;
+    color: red;
+    border: solid 1px red;
 }
 
 .btn-border:not([disabled]):not(.disabled).active, .btn-border:not([disabled]):not(.disabled):active, .show > .btn-border.dropdown-toggle {
     color: #fff;
-    background-color: #274cbf;
-    border-color: #274cbf;
+    background-color: red;
+    border-color: red;
     box-shadow: none;
 }
 
 .leaflet-container a {
-    color: #274cbf;
+    color: red;
 }
 
 .btn-border:hover{
     color: #fff;
-    border: solid 1px #2646a7;
-    background: #2646a7;
+    border: solid 1px red;
+    background: red;
 }
 
 .coming-soon-inner .btn, .coming-soon-inner .btn:hover, .coming-soon-inner .btn:active {
-    background: #274cbf;
+    background: red;
 }
 
 .megamenu-area .dropdown-item:hover {
-    color: #274cbf;
+    color: red;
 }
 
 .main-header .navbar-expand-lg .navbar-nav .active .nav-link{
-    color: #274cbf !important;
-    border-bottom: solid 2px #274cbf;
+    color: black !important;
+    border-bottom: solid 2px red;
 }
 
 .main-header .navbar-expand-lg .navbar-nav .nav-link:hover{
-    border-bottom: solid 2px #274cbf;
-    color: #274cbf !important;
+    border-bottom: solid 2px red;
+    color: red !important;
 }
 
 .main-header .dropdown-menu a:hover {
     background: transparent;
-    color: #274cbf;
+    color: red;
 }
 
 .sub-banner .breadcrumbs li a:hover {
-    color: #274cbf;
+    color: red;
 }
 
 .sub-banner-2 .breadcrumbs li a:hover {
-    color: #274cbf;
+    color: red;
 }
 
 .option-bar h4 {
-    color: #274cbf;
+    color: red;
 }
 
 .option-bar .heading-icon {
-    background: #274cbf;
+    background: red;
 }
 
 .option-bar h4 {
-    color: #274cbf;
+    color: red;
 }
 
 .option-bar .heading-icon .icon-design {
-    color: #274cbf;
+    color: red;
 }
 
 .change-view-btn {
-    color: #274cbf;
-    border: solid 1px #274cbf;
+    color: red;
+    border: solid 1px red;
 }
 
 .active-view-btn {
-    background: #274cbf;
-    border: solid 1px #274cbf;
+    background: red;
+    border: solid 1px red;
 }
 
 .change-view-btn:hover {
-    border: solid 1px #274cbf;
-    background: #274cbf;
+    border: solid 1px red;
+    background: red;
 }
 
 .overlay-link:hover{
-    background: #274cbf;
-    border: 2px solid #274cbf;
+    background: red;
+    border: 2px solid red;
 }
 
 .property-box .detail .title a{
-    color: #274cbf;
+    color: red;
 }
 
 .property-box-2 .detail h4{
-    color: #274cbf;
+    color: red;
 }
 
 .property-box-3 h5{
-    color: #274cbf;
+    color: red;
 }
 
 .property-box-5 .detail .title a {
-    color: #274cbf;
+    color: red;
 }
 
 .services-info i{
-    color: #274cbf;
+    color: red;
 }
 
 .services-info-3 i{
-    color: #274cbf;
+    color: red;
 }
 
 .services-info-2 i {
-    color: #274cbf;
+    color: red;
 }
 
 .attachments a:hover {
-    color: #274cbf;
+    color: red;
 }
 
 .user-profile-box .detail ul li .active {
-    color: #274cbf;
+    color: red;
 }
 
 .user-profile-box .detail ul li a:hover {
-    color: #274cbf;
+    color: red;
 }
 
 .blog-list .photo .date-box {
-    background: #274cbf;
+    background: red;
 }
 
 .faq-accordion .card-header:before {
-    color: #274cbf;
+    color: red;
 }
 
 .property-box-6 ul li i{
-    color: #274cbf;
+    color: red;
 }
 
 .intro-section {
-    background: #274cbf;
+    background: red;
 }
 
 .property-box-6 h3{
-    color: #274cbf;
+    color: red;
 }
 
 .services-info-3 h5 {
-    color: #274cbf;
+    color: red;
 }
 
 .modal-left-content .control{
-    background: #274cbf;
+    background: red;
 }
 
 .modal-right-content .price {
-    color: #274cbf;
+    color: red;
 }
 
 .testimonial .carousel-indicators .active {
-    background-color: #274cbf;
+    background-color: red;
 }
 
 .carousel-indicators .active {
-    background-color: #274cbf;
+    background-color: red;
 }
 
 .pricing.featured .listing-badges .featured {
-    background: #274cbf;
+    background: red;
 }
 
 .pricing-3 .featured{
-    color: #274cbf;
+    color: red;
 }
 
 .pages-404 .pages-404-inner h5 {
-    color: #274cbf;
+    color: red;
 }
 
 .blog-grid-box .date-box {
-    background: #274cbf;
+    background: red;
 }
 
 .pagination > li > .active {
-    background: #274cbf;
+    background: red;
 }
 
 .pagination > li > a:hover{
-    background: #274cbf;
+    background: red;
 }
 
 .tags ul li a:hover{
-    border: solid 1px #274cbf;
-    background: #274cbf;
+    border: solid 1px red;
+    background: red;
 }
 
 .latest-tweet p a{
-    color: #274cbf;
+    color: red;
 }
 
 .shop-box .shop-details h4{
-    color: #274cbf;
+    color: red;
 }
 
 .form-check a{
-    color: #274cbf;
+    color: red;
 }
 
 .form-check a:hover{
-    color: #2646a7;
+    color: red;
 }
 
 .login-footer p a{
-    color: #274cbf;
+    color: red;
 }
 
 .login-footer p a:hover{
-    color: #2646a7;
+    color: red;
 }
 
 .about-text ul li i {
-    color: #274cbf;
+    color: red;
 }
 
 .amenities-box li i {
-    color: #274cbf;
+    color: red;
 }
 
 .features-opions ul li i {
-    color: #274cbf;
+    color: red;
 }
 
 .helping-center i{
-    color: #274cbf;
+    color: red;
 }
 
 .coming-soon-inner h1 span{
-    color: #274cbf;
+    color: red;
 }
 
 .filteriz-navigation li:hover {
-    color: #274cbf;
+    color: red;
 }
 
 li.active.btn.filtr-button.filtr {
-    color: #274cbf;
+    color: red;
 }
 
 .view-all ul li a:hover{
-    background: #274cbf;
+    background: red;
 }
 
 .brand-box-2 h5 a{
-    color: #274cbf;
+    color: red;
 }
 
 .search-area-3 {
-    border-top: 3px solid #274cbf;
+    border-top: 3px solid red;
 }
 
 .min-value {
-    color: #274cbf;
+    color: red;
 }
 
 .max-value {
-    color: #274cbf;
+    color: red;
 }
 
 .range-slider .ui-slider .ui-slider-handle {
-    background: #274cbf;
+    background: red;
 }
 
 .range-slider .ui-slider .ui-slider-handle {
-    border: 2px solid #274cbf;
+    border: 2px solid red;
 }
 
 .range-slider .ui-widget-header {
-    background-color: #274cbf;
+    background-color: red;
 }
 
 
 .map-marker:hover {
-    background-color: #274cbf;
+    background-color: red;
     cursor: pointer;
 }
 .map-marker:hover:before {
-    border-color: #274cbf transparent transparent transparent;
+    border-color: red transparent transparent transparent;
 }
 
 .map-marker.featured:hover {
-    background-color: #274cbf;
+    background-color: red;
 }
 .map-marker.featured:hover:before {
-    border-color: #274cbf transparent transparent transparent;
+    border-color: red transparent transparent transparent;
 }
 
 .map-marker .icon {
-    border: 3px solid #274cbf;
+    border: 3px solid red;
 }
 
 .marker-active .map-marker {
-    background-color: #274cbf;
+    background-color: red;
 }
 .marker-active .map-marker:before {
-    border-color: #274cbf transparent transparent transparent;
+    border-color: red transparent transparent transparent;
 }
 
 .map-properties .address i{
-    color: #274cbf;
+    color: red;
 }
 
 .map-properties-btns .border-button-theme{
-    color: #274cbf; !important;
+    color: red; !important;
 }
 
 .map-properties-btns .border-button-theme:hover{
     color: #fff !important;
 }
 .map-properties .map-content h4 a{
-    color: #274cbf;
+    color: red;
 }
 
 .map-properties .map-properties-fetures span i {
-    color: #274cbf;
+    color: red;
 }
 
 .dropzone-design:hover {
-    border: 2px dashed #274cbf;
+    border: 2px dashed red;
 }
 
 .faq-accordion .card-header a:before {
-    color: #274cbf;
+    color: red;
 }
 
 /** MEDIA **/
 @media (max-width: 992px) {
     .main-header .navbar-expand-lg .navbar-nav .active .nav-link{
-        color: #274cbf !important;
+        color: red !important;
     }
 
     .main-header .navbar-expand-lg .navbar-nav .nav-link:hover {
-        color: #274cbf !important;
+        color: red !important;
     }
 
     .navbar-light .navbar-toggler {
-        color: #274cbf;
+        color: red;
     }
 }
 
@@ -484,8 +484,8 @@ li.active.btn.filtr-button.filtr {
     }
 
     .header-shrink .btn-white-sm-outline {
-        color: #274cbf;
-        border: solid 2px #274cbf;
+        color: red;
+        border: solid 2px red;
     }
 }
 
